@@ -1,1 +1,0 @@
-cmd='C:/apps/CMake/bin/cmake.exe;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
